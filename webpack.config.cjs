@@ -43,7 +43,7 @@ module.exports = {
         ]
     },
     output: {
-        filename: 'placenl-userscript.user.js'
+        filename: 'placestart-userscript.user.js'
     }
 };
 
