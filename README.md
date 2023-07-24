@@ -1,6 +1,6 @@
 # Userscript
 
-The easiest way to run our automated placer, right from your browser!
+The easiest way to run our automated placer, right from your browser.
 
 ## Downloads
 
