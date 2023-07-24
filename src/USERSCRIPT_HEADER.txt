@@ -1,15 +1,15 @@
 // ==UserScript==
-// @name         PlaceNL Userscript
-// @namespace    https://github.com/PlaceNL/Userscript
+// @name         PlaceStart Userscript
+// @namespace    https://github.com/PlaceStart/Userscript
 // @version      ___GIT_HASH___
 // @description  The easiest way to run our automated placer, right from your browser
-// @author       PlaceNL
+// @author       PlaceNL, changes by PlaceStart
 // @match        https://www.reddit.com/r/place/*
 // @match        https://new.reddit.com/r/place/*
 // @connect      reddit.com
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=reddit.com
-// @updateURL    https://github.com/PlaceNL/Userscript/releases/download/latest/placenl-userscript.user.js
-// @downloadURL  https://github.com/PlaceNL/Userscript/releases/download/latest/placenl-userscript.user.js
+// @updateURL    https://github.com/PlaceStart/Userscript/releases/download/latest/placestart-userscript.user.js
+// @downloadURL  https://github.com/PlaceStart/Userscript/releases/download/latest/placestart-userscript.user.js
 // ==/UserScript==
 
 /*
